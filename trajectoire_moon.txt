@@ -1,0 +1,9 @@
+{"allcfg":
+{"commonConf":
+{"useDrawing":true,"PanBillboard":true,"north":0,"showSight":false,"command":0},
+"polarConf":
+{"PanPolarActive":true,"ControlAngularSizeP":true},
+"cartesianConf":{"PanCartesianActive":false,"ControlAngularSizeC":false}},
+"kp_list":[
+{"cminfo":{"lyaw":0,"lpitch":0,"lroll":0,"alpha":1,"time":0},"pinfo":{"az":0,"alt":19.75,"AngularSizeP":0.5,"distanceP":45,"sizeP":0.3927016},
+"cinfo":{"posx":0,"posy":0,"posz":0,"AngularSizeC":180,"distanceC":0,"sizeC":1},"set":true}]}

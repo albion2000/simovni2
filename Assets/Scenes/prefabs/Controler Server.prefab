@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4505158950899941656
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4505158950899941638}
+  - component: {fileID: 4505158950899941657}
+  m_Layer: 0
+  m_Name: Controler Server
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4505158950899941638
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4505158950899941656}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4505158950899941657
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4505158950899941656}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f49f8efb7eaee08449b7874a03fb3d80, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  messager: {fileID: 0}
+  allcfg:
+    commonConf:
+      useDrawing: 0
+      PanBillboard: 0
+      north: 0
+      showSight: 0
+      command: 0
+    polarConf:
+      PanPolarActive: 0
+      ControlAngularSizeP: 0
+    cartesianConf:
+      PanCartesianActive: 0
+      ControlAngularSizeC: 0
+  lkp:
+    cminfo:
+      lyaw: 0
+      lpitch: 0
+      lroll: 0
+      alpha: 0
+    pinfo:
+      az: 0
+      alt: 0
+      AngularSizeP: 0
+      distanceP: 0
+      sizeP: 0
+    cinfo:
+      posx: 0
+      posy: 0
+      posz: 0
+      AngularSizeC: 0
+      distanceC: 0
+      sizeC: 0
+    time: 0
+    set: 0
+  sliderAlpha: {fileID: 0}
+  sliderAlphaText: {fileID: 0}
+  sliderAz: {fileID: 0}
+  sliderAlt: {fileID: 0}
+  sliderNorth: {fileID: 0}
+  sliderDistanceP: {fileID: 0}
+  sliderAngularSizeP: {fileID: 0}
+  sliderTime: {fileID: 0}
+  sliderTimeText: {fileID: 0}
+  kpIdxText: {fileID: 0}

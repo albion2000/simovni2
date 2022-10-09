@@ -1,0 +1,11 @@
+{"allcfg":
+{"commonConf":{"useDrawing":true,"PanBillboard":true,"north":88.36633,"showSight":false,"command":0,"ControlAngularSize":true,"PanPolarActive":true}},
+"kp_list":[
+{"cminfo":{"lyaw":0,"lpitch":0,"lroll":0,"alpha":0,"time":0},            "pinfo":{"az":-7,"alt":0.13,"AngularSizeP":8.5,"distanceP":48,"sizeP":7.134032},"cinfo":{"posx":1.36,"posy":0.5,"posz":-0.12,"AngularSizeC":38.05121,"distanceC":1.45,"sizeC":1},"set":true},
+{"cminfo":{"lyaw":0,"lpitch":0,"lroll":0,"alpha":0,"time":9.9},          "pinfo":{"az":-7,"alt":0.13,"AngularSizeP":8.5,"distanceP":48,"sizeP":7.134032},"cinfo":{"posx":1.36,"posy":0.5,"posz":-0.12,"AngularSizeC":38.05121,"distanceC":1.45,"sizeC":1},"set":true},
+{"cminfo":{"lyaw":0,"lpitch":0,"lroll":0,"alpha":1,"time":10},           "pinfo":{"az":-7,"alt":0.13,"AngularSizeP":8.5,"distanceP":48,"sizeP":7.134032},"cinfo":{"posx":1.36,"posy":0.5,"posz":-0.12,"AngularSizeC":38.05121,"distanceC":1.45,"sizeC":1},"set":true},
+{"cminfo":{"lyaw":0,"lpitch":0,"lroll":0,"alpha":1,"time":20.12145},     "pinfo":{"az":-7,"alt":0.2,"AngularSizeP":8.5,"distanceP":47.99,"sizeP":7.134032},"cinfo":{"posx":1.36,"posy":0.5,"posz":-0.12,"AngularSizeC":38.05121,"distanceC":1.45,"sizeC":1},"set":true},
+{"cminfo":{"lyaw":0,"lpitch":0,"lroll":-11.26,"alpha":1,"time":22.95547},"pinfo":{"az":-7,"alt":2.2,"AngularSizeP":8.5,"distanceP":48,"sizeP":7.134032},"cinfo":{"posx":1.36,"posy":0.5,"posz":-0.12,"AngularSizeC":38.05121,"distanceC":1.45,"sizeC":1},"set":true},
+{"cminfo":{"lyaw":0,"lpitch":0,"lroll":-11,"alpha":1,"time":23},         "pinfo":{"az":-30,"alt":8.318453,"AngularSizeP":8.5,"distanceP":47.99,"sizeP":7.134032},"cinfo":{"posx":1.36,"posy":0.5,"posz":-0.12,"AngularSizeC":38.05121,"distanceC":1.45,"sizeC":1},"set":true},
+{"cminfo":{"lyaw":0,"lpitch":0,"lroll":-11,"alpha":0,"time":23.1},       "pinfo":{"az":-30,"alt":8.318453,"AngularSizeP":8.5,"distanceP":2.01,"sizeP":0.2987376},"cinfo":{"posx":1.36,"posy":0.5,"posz":-0.12,"AngularSizeC":38.05121,"distanceC":1.45,"sizeC":1},"set":true}
+]}

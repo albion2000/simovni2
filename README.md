@@ -1,12 +1,14 @@
 # simovni2
 Unity3d project for Simovni2 on Hololens2 / OpenXR
 
-The files will be uploaded before the 13th of october 2022
+Augmented Reality for more fidelity in UAP reports and cognitive psychology studies
 
-The documentation will be located here
-https://ufowaves.org/enquetes/simovni2
+The main documentation can be found here https://ufowaves.org/enquetes/simovni2
 
-The wiki will be open at the time.
+especially https://ufowaves.org/enquetes/simovni2/doku.php?id=simovni2:implementation
+
+This demo should compile as is. 
+Check the things to tune in the implementatin documentation (only 2 things)
 
 ----
 

@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/simovni2.unity
+    guid: 099681590ca4e6e40a7163eceec48075
+  - enabled: 0
+    path: Assets/Scenes/fastdev_simovni.unity
+    guid: a2ef9a2cf7fffc547802cdbdea742ce4
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 65b529dec67de89409634d1333717c4a, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: e2091f8b1e4770347a054c13a0970b76, type: 2}
